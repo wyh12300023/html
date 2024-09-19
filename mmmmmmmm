@@ -1,0 +1,45 @@
+<tr>
+nm.html
+*de.html
+<td><sma11>电子邮件</sma11></td>
+<td colspan="2"></td>
+<td><sma11>手机号码</sma11></td>
+</tr>
+<td colspan-"2"></td>
+<tr>
+<td colspan="7"bgcolor-“greenyellow"><big>教育经历</big></td>
+</tr>
+<tr>
+<td colspan="2"><smal1>起止时间</small></td><td colspan="2"><smal1>毕业院校</small></td><td colspan-“3"><sma1l>所学专业</small></td></tr>
+<tr height="25px">
+<td colspan-"2"></td><td colspan-"2"></td><td colspan-"3"></td></tr>
+<tr height="25px">
+<td colspan="2"></td><td colspan="2"></td><td colspan-"3"></td></tr>
+<tr height="25px">
+<td colspan-"2"></td><td colspan="2"></td><td colspan-"3"></td></tr>
+<tr height="25px">
+<td colspan="2"></td><td colspan="2"></td><td colspan="3"></td></tr>
+atr height="25px">
+<td colspan="2"></td>
+<td colspan="3"></td></tr>
+<tr>
+<td colspan="7"bgcolor-"greenyellow"><big>工作经历</big></td>
+</tr>
+<tr height="25px">
+<td colspan="2"><sma11>起止时间</small></td>
+<td colspan="2"><sma11>公司名称及职位</smal1></td>
+<td colspan="3"><smal1>工作内容</smal1></td>
+</tr>
+<tr height="25px">
+<td colspan="2"></td><td colspan="2"></td><td colspan="3"></td></tr>
+<tr height="25px">
+<td colspan="2"></td><td colspan="2"></td><td colspan="3"></td></tr>
+<tr height="25px">
+<td colspan="2"></td><td colspan="2"></td><td colspan="3"></td></tr>
+xtr height="150px">
+<td><smal1>自我评价</small></td>
+</tr>
+<td colspan="6"></td>
+xtr height="15@px">
+<td><sm11>技能/爱好</smal1></td>
+<td colspan="6"></td>
